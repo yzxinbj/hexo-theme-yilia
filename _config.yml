@@ -120,10 +120,12 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
+  MDN: https://developer.mozilla.org/zh-CN/
   regexper: https://regexper.com/
   regex101: https://regex101.com/
   阮一峰: http://www.ruanyifeng.com/blog/
   廖雪峰: https://www.liaoxuefeng.com/
+  可视化算法学习: https://visualgo.net/en
   
 
 aboutme: 进击的菜鸟
